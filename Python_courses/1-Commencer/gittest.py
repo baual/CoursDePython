@@ -1,0 +1,8 @@
+print("What is your name?")
+name = input()
+print("What is your budget?")
+budget = input()
+print("What is your %?")
+inter = input()
+total= float(budget) * (1 + (float(inter) / 100))
+print('\nInterest = %0.3f' % (total))

@@ -1,0 +1,10 @@
+{
+    "python.autoComplete.extraPaths": [
+        "./7-functions",
+        "./9-FileOperations"
+    ],
+    "python.analysis.extraPaths": [
+        "./7-functions",
+        "./9-FileOperations"
+    ]
+}
