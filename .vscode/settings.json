@@ -1,11 +1,11 @@
 {
     "python.autoComplete.extraPaths": [
-        "./Python_courses/7-functions",
-        "./Python_courses/9-FileOperations"
+        "./2-Python_courses/7-functions",
+        "./2-Python_courses/9-FileOperations"
     ],
     "python.analysis.extraPaths": [
-        "./Python_courses/7-functions",
-        "./Python_courses/9-FileOperations"
+        "./2-Python_courses/7-functions",
+        "./2-Python_courses/9-FileOperations"
     ],
     "python.pythonPath": "/home/lolo/miniconda3/envs/DataScience/bin/python"
 }
