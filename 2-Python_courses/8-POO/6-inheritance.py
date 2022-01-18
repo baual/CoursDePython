@@ -78,7 +78,7 @@ class AnonymousPerson(Person):
 
     # in order to print we  need to surcharge also the print methjod
     def __str__(self):
-        return 'His age is ' + str(self.get_age()) #no need to use super() because we dion't use the parent method
+        return 'His age is ' + str(self.get_age()) #no need to use super() because we didn't use the parent method
 
 
 
