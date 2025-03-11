@@ -1,0 +1,6 @@
+jupyter
+requests
+numpy
+pandas
+colorama
+aiohttp
