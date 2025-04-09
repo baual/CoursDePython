@@ -1,7 +1,6 @@
-
 ## Python refresher
 
-ebbok : [Introduction to Python e-book | Introduction to Python](https://python.tecladocode.com/)
+ebook : [Introduction to Python e-book | Introduction to Python](https://python.tecladocode.com/)
 
 github depot : [https://github.com/tecladocode/python-refresher](https://github.com/tecladocode/python-refresher)
 
