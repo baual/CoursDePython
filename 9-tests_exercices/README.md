@@ -1,4 +1,18 @@
-# Python_test
+# Tests et exercices
+
+## Tests et compréhension
+
+context_manager_tutorial.ipynb
+
+Lambda_UtilFunctions.ipynb
+
+## Exercices
+
+### codin game
+
+ascii_art.ipynb
+
+unary.ipybn
 
 ## Amusement
 
