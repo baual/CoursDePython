@@ -1,0 +1,3 @@
+playsound
+setuptools
+wheel
